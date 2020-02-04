@@ -1,1 +1,1 @@
-E-commerce store managment App
+E-commerce store management App
